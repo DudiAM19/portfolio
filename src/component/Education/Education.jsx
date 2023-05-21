@@ -11,7 +11,7 @@ const Education = () => {
                             <h3 class="mb-0">University of Mercu Buana Yogyakarta</h3>
                             <div class="subheading mb-3">Technical Information</div>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">2017 - Now</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">2017 - 2022</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
