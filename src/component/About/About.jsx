@@ -10,15 +10,20 @@ const About = () => {
                         DUDIALI
                         <span class="text-primary text-secondary">MURTADO</span>
                     </h1>
-                    <div class="subheading mb-5">
+                    <div class="subheading mb-1">
                         Jl Jembatan Merah 1 · Sleman, Yogyakarta · (+62) 8956-0468-4777 ·
                         <a href="mailto:dudiali79@gmail.com" class="text-secondary">dudiali79@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">Introducing my name is Dudi Ali Murtado, I am a front end developer. I come from West Java, and I am a graduate of the University of Mercu Buana, Yogyakarta, majoring in informatics. I really like learning new things, especially in the field of information technology.</p>
+                    <div class="mb-3">
+                        <p>
+                            <a href="https://drive.google.com/file/d/10_o-LslbENy00fq2uDPj87oIPSmIpV6_/view?usp=sharing" class="text-secondary">click to see my cv</a>
+                        </p>
+                    </div>
+                    <p class="mb-5">Introducing my name is Dudi Ali Murtado, I am a front end developer. I come from West Java, and I am a graduate of the University of Mercu Buana, Yogyakarta, majoring in informatics. I really like learning new things, especially in the field of information technology.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/dudi-ali-b3b837163"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/DudiAM19"><i class="fab fa-github"></i></a>
-                        <a class="social-icon" href="https://www.instagram.com/dudialimurtado/"><i class="fab fa-instagram"></i></a>
+                        <a class="social-icon" href="https://www.instagram.com/dudialimurtado/"><i classfab=" fa-instagram"></i></a>
                     </div>
                 </div>
             </section>
